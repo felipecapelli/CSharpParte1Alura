@@ -1,0 +1,7 @@
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp1\1-PrimeiroProjeto\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe.config
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp1\1-PrimeiroProjeto\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp1\1-PrimeiroProjeto\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.pdb
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp1\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp1\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp1\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.exe
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp1\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.pdb

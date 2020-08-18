@@ -1,0 +1,6 @@
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp1\1-PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\bin\Debug\P12-CalculaInvestimentoLongoPrazo.exe.config
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp1\1-PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\bin\Debug\P12-CalculaInvestimentoLongoPrazo.exe
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp1\1-PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\bin\Debug\P12-CalculaInvestimentoLongoPrazo.pdb
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp1\1-PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\obj\Debug\P12-CalculaInvestimentoLongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp1\1-PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\obj\Debug\P12-CalculaInvestimentoLongoPrazo.exe
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp1\1-PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\obj\Debug\P12-CalculaInvestimentoLongoPrazo.pdb

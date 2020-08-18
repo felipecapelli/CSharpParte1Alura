@@ -1,0 +1,6 @@
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp1\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.exe.config
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp1\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.exe
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp1\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.pdb
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp1\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp1\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.exe
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp1\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.pdb

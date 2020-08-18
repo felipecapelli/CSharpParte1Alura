@@ -1,0 +1,7 @@
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp1\1-PrimeiroProjeto\9-Escopo\bin\Debug\9-Escopo.exe.config
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp1\1-PrimeiroProjeto\9-Escopo\bin\Debug\9-Escopo.exe
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp1\1-PrimeiroProjeto\9-Escopo\bin\Debug\9-Escopo.pdb
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp1\1-PrimeiroProjeto\9-Escopo\obj\Debug\9-Escopo.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp1\1-PrimeiroProjeto\9-Escopo\obj\Debug\9-Escopo.exe
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp1\1-PrimeiroProjeto\9-Escopo\obj\Debug\9-Escopo.pdb
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp1\1-PrimeiroProjeto\9-Escopo\obj\Debug\9-Escopo.csprojAssemblyReference.cache
